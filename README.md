@@ -1,4 +1,5 @@
-# Diet Recommendation System (Python GUI)
+# Diet Recommendation System (Python GUI):
+(This is my First PBL Project)
 
 A simple AI-based Diet Recommendation System developed using Python and Tkinter GUI.
 This project takes user details like age, weight, height, gender, and activity level, then calculates BMI and recommends a suitable daily diet plan.
